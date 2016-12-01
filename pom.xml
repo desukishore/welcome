@@ -30,7 +30,7 @@
 	
 	
   <build>
-  	<finalName>hw3</finalName>
+  	<finalName>welcome</finalName>
    <!--  <sourceDirectory>src</sourceDirectory>
     <resources>
       <resource>
